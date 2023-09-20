@@ -3,12 +3,12 @@ contains:
   - code
   - poster
   - book
+  - a quick rundown of the patterns
 ## quick summary
 
 ### Strategy Pattern:
 
 Summary: Defines a family of algorithms, encapsulates each one, and makes them interchangeable.  
-
 Use Case: Ideal for situations where you need to select an algorithm at runtime, such as varying behavior in a game or different sorting strategies in an application.
 
 
